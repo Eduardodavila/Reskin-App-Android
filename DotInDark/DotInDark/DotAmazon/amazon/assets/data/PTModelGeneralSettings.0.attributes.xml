@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>1</string>
+                <key>className</key>
+                <string>PTModelGeneralSettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Version Number</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.0</string>
+                </dict>
+                <key>Application Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>DotInDark</string>
+                </dict>
+                <key>Comments</key>
+                <dict>
+                    <key>value</key>
+                    <string>add comments here</string>
+                </dict>
+                <key>Reset text</key>
+                <dict>
+                    <key>value</key>
+                    <string>PLEASE NOTE:  You are about to reset all your game progress and start completely over.  Are you sure you want to do that?</string>
+                </dict>
+                <key>Game Speed Min</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Speed Max</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Speed Increase</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Preset</key>
+                <dict>
+                    <key>value</key>
+                    <string>&lt;Custom&gt;</string>
+                </dict>
+                <key>Fixed Rotation</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Move Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{20.000,0.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Jump</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Jump Timeout</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Simulation Time Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.200000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.500000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Character Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.600,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Score Multiplier</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.010000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Platform Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.200000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,36.500}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>lastIdNumber</key>
+                <string>5461</string>
+                <key>platformSpecificValues</key>
+                <dict>
+                    <key>Apple iOS App Store</key>
+                    <dict>
+                        <key>bundleID</key>
+                        <string></string>
+                        <key>nameOnDevice</key>
+                        <string></string>
+                        <key>shareMessageTemplate</key>
+                        <string></string>
+                        <key>reviewLink</key>
+                        <string></string>
+                    </dict>
+                    <key>Apple Mac App Store</key>
+                    <dict>
+                        <key>reviewLink</key>
+                        <string></string>
+                    </dict>
+                    <key>Google Play Store</key>
+                    <dict>
+                        <key>bundleID</key>
+                        <string></string>
+                        <key>leaderboardId</key>
+                        <string></string>
+                        <key>shareMessageTemplate</key>
+                        <string></string>
+                        <key>googlePlayId</key>
+                        <string></string>
+                        <key>versionCode</key>
+                        <string></string>
+                        <key>nameOnDevice</key>
+                        <string></string>
+                        <key>adMobBanner</key>
+                        <string></string>
+                        <key>adMobInterstitial</key>
+                        <string></string>
+                        <key>charboostSignature</key>
+                        <string></string>
+                        <key>charboostID</key>
+                        <string></string>
+                        <key>reviewLink</key>
+                        <string></string>
+                    </dict>
+                    <key>Amazon App Store</key>
+                    <dict>
+                        <key>leaderboardId</key>
+                        <string>com_white_world_lead</string>
+                        <key>versionCode</key>
+                        <string>1</string>
+                        <key>APIKey</key>
+                        <string>eyJhbGciOiJSU0EtU0hBMjU2IiwidmVyIjoiMSJ9.eyJ2ZXIiOiIzIiwiZW5kcG9pbnRzIjp7ImF1dGh6IjoiaHR0cHM6Ly93d3cuYW1hem9uLmNvbS9hcC9vYSIsInRva2VuRXhjaGFuZ2UiOiJodHRwczovL2FwaS5hbWF6b24uY29tL2F1dGgvbzIvdG9rZW4ifSwiY2xpZW50SWQiOiJhbXpuMS5hcHBsaWNhdGlvbi1vYTItY2xpZW50LjZhZjJiNjI5NTYzNDRmMWVhOWUyMWMzMWE3NGQwMGVlIiwiYXBwRmFtaWx5SWQiOiJhbXpuMS5hcHBsaWNhdGlvbi5kMWRjZDlkYmJhY2E0MGUzODc3YzBiNWI1NmMwNjk3ZSIsImlzcyI6IkFtYXpvbiIsInR5cGUiOiJBUElLZXkiLCJwa2ciOiJjb20ud2hpdGUuZG90IiwiYXBwVmFyaWFudElkIjoiYW16bjEuYXBwbGljYXRpb24tY2xpZW50LjUwYTgzMTQ4MzhmZDQ1M2E4YjBjYTkyOWU5ZTFhNzNlIiwidHJ1c3RQb29sIjpudWxsLCJhcHBzaWciOiIwRjozQzpFNTpERjo5ODpDRjpCQzoyNDo1RDpFMTo5ODo4QTpDNTpGMzo3RToyQSIsImFwcElkIjoiYW16bjEuYXBwbGljYXRpb24tY2xpZW50LjUwYTgzMTQ4MzhmZDQ1M2E4YjBjYTkyOWU5ZTFhNzNlIiwiaWQiOiJjZGU0NDkyMi05YWNhLTQxZjQtODQ0MC0yN2U2ZGU5NTdhMGEiLCJpYXQiOiIxNDQ4MzAxNDYxMTk4In0=.gy+YDI1KkRtus6aaZhork9itRaTZ+R1tQdkatfmhqiEQ6vkDXy2EKCMw5pffvpkoGvALWA72W3088/RpGKpGUrC7rAqxxzIErUEvJo4IY9nmRQZlr3FsRoXEmfmILwf3xUO8A/gb57MGTiYTGQ57h/BgI/yClJGFJ4QNYjqmxAM2zHfRO5PMWl4wFiCCQMldIq2Y5FX4DI7zpH4JBDR89xZBIYBfrWE8mX6QCSKNDphYfxTe1rzNORmVBo8cqPdPXXPzpWnCL3tPTauNum1oSITbgm6ab3CX54mQYRvW6Zs/gU3dSYRF/19cKtmXAHvP8y/VYdtmTiMAdih2bxBWKg==</string>
+                        <key>charboostID</key>
+                        <string>5963a9bbf6cd456dbf4c79b8</string>
+                        <key>charboostSignature</key>
+                        <string>1701361f71124fa088d48dc8e09cc83ef46af3ef</string>
+                        <key>bundleID</key>
+                        <string>com.white.dot</string>
+                        <key>nameOnDevice</key>
+                        <string>DotInDark</string>
+                        <key>shareMessageTemplate</key>
+                        <string>I Just Got [[SCORE]] In Doit In Dark. Join Me</string>
+                        <key>reviewLink</key>
+                        <string>ReviewLink</string>
+                    </dict>
+                    <key>Microsoft Windows Marketplace</key>
+                    <dict>
+                        <key>reviewLink</key>
+                        <string></string>
+                    </dict>
+                </dict>
+                <key>scoreType</key>
+                <string>Distance</string>
+                <key>shareScreen</key>
+                <string>Game Field Screen</string>
+                <key>objectFrameEdgeState_0</key>
+                <string>2</string>
+                <key>objectFrameEdgeState_1</key>
+                <string>0</string>
+                <key>objectFrameEdgeState_2</key>
+                <string>2</string>
+                <key>objectFrameEdgeState_3</key>
+                <string>2</string>
+                <key>objectFrameRect</key>
+                <string>{{0.0000,0.0000},{0.3400,1.0000}}</string>
+                <key>_ibVersion</key>
+                <string>1.3.5</string>
+                <key>t</key>
+                <string>0</string>
+                <key>orientation</key>
+                <string>PTPScreenOrientationPortrait</string>
+                <key>screenAdjustment</key>
+                <string>0</string>
+            </dict>
+        </array>
+    </dict>
+</plist>

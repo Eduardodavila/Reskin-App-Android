@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">White Dot World</string>
+    <string name="leaderboard_id">com_white_world_lead</string>
+</resources>
